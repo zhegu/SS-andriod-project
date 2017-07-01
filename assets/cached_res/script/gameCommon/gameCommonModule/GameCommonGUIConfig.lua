@@ -1,0 +1,8 @@
+--打赏
+GUI_MINIGAME_REWARDS = "Rewards"
+GUI_SMALLGAMEREWARDS = "SmallGameRewards"
+GUI_SMALLREWARDSGUIDE = "SmallRewardsGuide"
+
+GUI_BUGINFOVIEW = "BugInfoView"
+GUI_BUGINFOLISTVIEW = "BugInfoListView"
+GUI_EMAILINFOVIEW = "EmailInfoView"

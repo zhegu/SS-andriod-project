@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>MJ_btn_deyangmajiang_nor.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{320,2},{258,77}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{258,77}}</string>
+			<key>sourceSize</key>
+			<string>{258,77}</string>
+		</dict>
+		<key>MJ_btn_xuezhandaodi_nor.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{580,2},{259,75}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{259,75}}</string>
+			<key>sourceSize</key>
+			<string>{259,75}</string>
+		</dict>
+		<key>MJ_chuangjianfangjian_grxx.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{316,86}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{316,86}}</string>
+			<key>sourceSize</key>
+			<string>{316,86}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>create.pvr.ccz</string>
+		<key>size</key>
+		<string>{841,90}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:5c38a9116c613d1fd46831c8dedb2dd6$</string>
+		<key>textureFileName</key>
+		<string>create.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

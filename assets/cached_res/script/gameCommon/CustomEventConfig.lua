@@ -1,0 +1,17 @@
+module("CustomEventConfig", package.seeall)
+--[[--自定义事件ID--]]
+--金花每日签到去往月卡
+JINHUA_DAILYSALARY_TO_MONTHLYCARD = 1004
+--金花每日签到去往升级VIP
+JINHUA_DAILYSALARY_TO_VIP = 1005
+--金花每日签到首冲翻倍去充值
+JINHUA_DAILYSALARY_TO_DOUBLE_FIRSTPAY = 1006
+--金花每日签到去往竞技场
+JINHUA_DAILYSALARY_TO_ARENA = 1009
+
+
+--斗牛每日签到去往月卡
+DOUNIU_DAILYSIGN_TO_MONTHLYCARD = 10404
+--斗牛每日签到去往升级VIP
+DOUNIU_DAILYSIGN_TO_VIP = 10405
+

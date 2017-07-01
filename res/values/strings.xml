@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">麻友局</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="remote_call_failed">Failure calling remote service</string>
+    <string name="partnerHint">"partner"</string>
+    <string name="sellerHint">"seller"</string>
+    <string name="out_trade_noHint">"out_trade_no"</string>
+    <string name="subjectHint">"subject"</string>
+    <string name="bodyHint">"body"</string>
+    <string name="total_feeHint">"total_fee"</string>
+    <string name="notify_urlHint">"notify_url"</string>
+    <string name="charsetHint">"charset"</string>
+    <string name="signTypeHint">"signType"</string>
+    <string name="confirm_install_hint">"安装提示"</string>
+    <string name="confirm_install">"为保证您的交易安全，需要您安装支付宝安全支付服务，才能进行付款。\n\n点击确定，立即安装。"</string>
+    <string name="Ensure">"确定"</string>
+    <string name="Cancel">"取消"</string>
+    <string name="check_sign_failed">您的订单信息已被非法篡改。</string>
+    <string name="Umeng">0TongQu</string>
+    <string name="title_activity_wxentry">WXEntryActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="wx_app_id">wx11932f6994ac9dc0</string>
+    <!--
+    // APP_ID 替换为你的应用从官方网站申请到的合法appId
+	// APP_ID = "wxe31d88efd12f8738";//斗地主
+	// APP_ID = "wx633db57f9ab30a7a";//炸金花
+	// APP_ID = "wx41aa6b26eefbcb74";//捕鱼
+	// APP_ID = "wxef9700899e040dc5";//斗牛
+	// APP_ID = "wxdd1191904b121ffd";//德州
+	// APP_ID = "wxfb3229d1e5635107";//麻友局
+    -->
+
+</resources>

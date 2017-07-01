@@ -1,0 +1,10 @@
+{
+    "ScriptVerName":"1.00",
+    "ChannelID":"0",
+	"AppName":"ShuaShuaMahjong",
+    "AndroidPackageName":"com.shuashuaent.client.mj.android",
+	"AndroidNativeVerCode":"17052611",
+	"IOSNativeVerCode":"17052611",
+	"GlobalApp":"0",
+    "IsLianYun":"0"
+}

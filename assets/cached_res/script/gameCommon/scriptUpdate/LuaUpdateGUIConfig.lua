@@ -1,0 +1,3 @@
+
+GUI_MAINLUAUPDATE = "MainLuaUpdate"
+GUI_MINILUAUPDATE = "MiniLuaUpdate"
